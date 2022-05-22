@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "782576444266",
+    "firebase_url": "https://iniciodesesion-b1442-default-rtdb.firebaseio.com",
+    "project_id": "iniciodesesion-b1442",
+    "storage_bucket": "iniciodesesion-b1442.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782576444266:android:7ae12f60a8cc42303d7b13",
+        "android_client_info": {
+          "package_name": "com.example.iniciodesesion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782576444266-sn2u727j8b993siqjpi8f7khbic3nidk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAObgJs-s7Qfs--0JjlGdUoIJtDaN9S4VY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782576444266-sn2u727j8b993siqjpi8f7khbic3nidk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
